@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aldana Caminos</h1>
-<h3 align="center">A passionate frontend developer from Argentina 🇦🇷</h3>
+<h3 align="center">A passionate Tester Manual 🇦🇷</h3>
 
 - 📖 I’m currently studying in **<a href="https://www.potrerodigital.org/" target="_blank">Potrero Digital</a> and <a href="https://transistemas.org/" target="_blank">Transistemas</a>**
 
-- 👩🏻‍💻 I’m currently learning **PHP, MySQL and Manual Testing**
+- 👩🏻‍💻 I’m currently doing a work simulation in **No Country**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
