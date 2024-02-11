@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aldana Caminos</h1>
 <h3 align="center">A passionate Tester Manual 🇦🇷</h3>
 
-<p>📖 I have studied in organizations such as:</p>
+📖 I have studied in organizations such as:
 <ul>
   <li><a href="https://www.potrerodigital.org/" target="_blank">Potrero Digital</a> in the programming area</li>
   <li><a href="https://transistemas.org/" target="_blank">Transistemas</a>in the area of ​​software testing and UX/UI design</li>
