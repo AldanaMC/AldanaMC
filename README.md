@@ -2,9 +2,13 @@
 <h3 align="center">A passionate Tester Manual 🇦🇷</h3>
 
 <p>📖 I have studied in organizations such as:</p>
-- **<a href="https://www.potrerodigital.org/" target="_blank">Potrero Digital</a> and <a href="https://transistemas.org/" target="_blank">Transistemas</a>**
+<ul>
+  <li><a href="https://www.potrerodigital.org/" target="_blank">Potrero Digital</a> in the programming area</li>
+  <li><a href="https://transistemas.org/" target="_blank">Transistemas</a>in the area of ​​software testing and UX/UI design</li>
+  <li><a href="https://transistemas.org/" target="_blank">Argentina Programa 4.0</a>in the area of ​​testing with the endorsement of the UTN university</li>
+</ul>
 
-- 👩🏻‍💻 I’m currently doing a work simulation in **No Country**
+👩🏻‍💻 I’m currently doing a work simulation in <a href="https://www.nocountry.tech/" target="_blank">No Country</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
